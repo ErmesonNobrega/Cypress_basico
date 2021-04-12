@@ -1,0 +1,21 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Curso de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Ermeson",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^6.1.0"
+  },
+
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ]
+}
